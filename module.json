@@ -9,13 +9,15 @@
             "discord": "Erceron#0370"
         }
     ],
-    "version": "2.5.7",
+    "version": "2.6.2",
     "compatibility": {
-        "minimum": 10,
-        "verified": "10.291",
-        "maximum": 10
+        "minimum": 11,
+        "verified": "12.331",
+        "maximum": 12
     },
-    "esmodules": ["./compendium-folders.js"],
+    "esmodules": [
+        "./compendium-folders.js"
+    ],
     "languages": [
         {
             "lang": "de",
@@ -56,11 +58,13 @@
     "media": [
         {
             "type": "cover",
-            "link": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/example.png"
+            "url": "https://raw.githubusercontent.com/gabcvit/vtt-compendium-folders/master/example.png"
         }
     ],
-    "styles": ["./styles.css"],
-    "url": "https://github.com/earlSt1/vtt-compendium-folders",
-    "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/10x-update/module.json",
-    "download": "https://github.com/earlSt1/vtt-compendium-folders/releases/download/2.5.7/2.5.7.zip"
+    "styles": [
+        "./styles.css"
+    ],
+    "url": "https://github.com/gabcvit/vtt-compendium-folders",
+    "manifest": "https://raw.githubusercontent.com/gabcvit/vtt-compendium-folders/12x-update/module.json",
+    "download": "https://github.com/gabcvit/vtt-compendium-folders/releases/download/2.6.2/2.6.2.zip"
 }
