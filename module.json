@@ -13,7 +13,7 @@
     "compatibility": {
         "minimum": 11,
         "verified": "12.331",
-        "maximum": 12
+        "maximum": 13
     },
     "esmodules": [
         "./compendium-folders.js"
@@ -65,6 +65,6 @@
         "./styles.css"
     ],
     "url": "https://github.com/gabcvit/vtt-compendium-folders",
-    "manifest": "https://raw.githubusercontent.com/gabcvit/vtt-compendium-folders/12x-update/module.json",
-    "download": "https://github.com/gabcvit/vtt-compendium-folders/releases/download/2.6.2/2.6.2.zip"
+    "manifest": "https://raw.githubusercontent.com/sdroscher/vtt-compendium-folders/main/module.json",
+    "download": "https://github.com/sdroscher/vtt-compendium-folders/releases/download/2.6.2/2.6.2.zip"
 }
